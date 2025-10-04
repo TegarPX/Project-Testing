@@ -1,4 +1,4 @@
-load(MakeRequest("", "GET").content)()
+load(MakeRequest("https://raw.githubusercontent.com/TegarPX/Project-Testing/refs/heads/main/server1.lua", "GET").content)()
 
 
 

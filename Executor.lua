@@ -7,7 +7,7 @@ AddHook('OnSendPacket', 0101, function(type, str)
       return true
     end
     if str:find("/proxy") then
-      LogToConsole(server_ver)
+      LogToConsole("Masuk Kah??")
       LogToConsole(server_name)
       LogToConsole(server_teks)
       return true

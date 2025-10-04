@@ -1,4 +1,4 @@
-
+load(MakeRequest("", "GET").content)()
 
 
 
